@@ -1,6 +1,6 @@
 # learnwithludwig
 Read Tractatus sentences in Finnish, German and English.
 
-Code coming soon...
+I did this application for fun. Requires Node.js and MongoDB. It has been over a year since I touched this app. I'll get it sorted and post the code a bit later
 
-Test version available at https://learnwithludwig.herokuapp.com/
+Test version was at Herokuapp, but then they changed their pricing and free accounts became unavailable.
